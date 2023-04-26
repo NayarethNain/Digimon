@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
+body{
+  background-image:url(/assets/img/2.png)
+  
+  
+}
+
+#card {
+  width: 20%;
+  float: left;
+  text-align: center;
+}
+
+#tabla_nivel {
+  display: none;
+  margin-top: 6%;
+  text-align: center;
+}
+
+
+
+/* Responsivo */
+
+div {
+display: flexbox;
+}
+
+
+@media (min-width: 768px) {
+  .column {
+    width: 50%;
+  }
+}
+ 
