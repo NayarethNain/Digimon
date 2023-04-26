@@ -1,5 +1,6 @@
 aca va la url del repositorio
+https://github.com/NayarethNain/Digimon
 
 
-Para clonar seria
-git clone
+
+git clone https://github.com/NayarethNain/Digimon.git
